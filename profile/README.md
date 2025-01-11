@@ -5,7 +5,7 @@
 This is the official repository for the Introduction to Computer System Course in Xi'an Jiaotong University.
 
 - [ICS Course Website](https://ics.dfshan.net/): schedule / dashboard / course slides / labs ...
-- [ICS Textbook](): facilitates the understanding of course content and is orthogonal to certain aspects of the classroom material, serving as a reference for both previewing and reviewing.
+- [ICS Textbook](): orthogonal to certain aspects of the classroom material, serving as a reference for previewing / reviewing.
 - [ICS Supplementary Materials](https://github.com/xjtu-ics/cli-toolkit): contains basic command line essentials.
 - [ICS Discussion](): allows students to engage in discussions and facilitates clarification of doubts with teaching assistants. 
 
