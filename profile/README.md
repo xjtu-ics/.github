@@ -7,7 +7,7 @@ This is the official repository for the Introduction to Computer System Course i
 - [ICS Course Website](https://ics.dfshan.net/): schedule / dashboard / course slides / labs ...
 - [ICS Textbook](): orthogonal to certain aspects of the classroom material, serving as a reference for previewing / reviewing.
 - [ICS Supplementary Materials](https://github.com/xjtu-ics/cli-toolkit): contains basic command line essentials.
-- [ICS Discussion](): allows students to engage in discussions and facilitates clarification of doubts with teaching assistants. 
+- [ICS Discussion](https://piazza.com/stu.xjtu.edu.cn/spring2025/xjtuics/home): allows students to engage in discussions and facilitates clarification of doubts with teaching assistants. 
 
 <!--
 
