@@ -1,5 +1,9 @@
 # Introduction to Computer System
 
+:wave: Welcome to XJTU-ICS! 🚀
+
+This is the official repository for the Introduction to Computer System Course in Xi'an Jiaotong University.
+
 <!--
 
 **Here are some ideas to get you started:**
