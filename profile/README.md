@@ -1,9 +1,11 @@
-# Introduction to Computer System
+<h1 align="center">
+    Introduction to Computer System
+</h1>
 
 <p align="center">
-    <a href="https://piazza.com/class/m4weeuxps486th"><img src="https://img.shields.io/badge/pizza-Pizza-blue" /></a>
     <!-- use https://shields.io/badges/git-hub-actions-workflow-status -->
     <img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/xjtu-ics/textbook/mdbook.yml">
+    <a href="https://piazza.com/class/m4weeuxps486th"><img src="https://img.shields.io/badge/pizza-Join Pizza-blue" /></a>
     <!-- use https://shields.io/badges/git-hub-followers -->
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/xjtu-ics">
     <!-- use https://shields.io/badges/git-hub-repo-stars -->
