@@ -1,6 +1,20 @@
 # Introduction to Computer System
 
-:wave: __Welcome to XJTU-ICS__ 🚀
+<p align="center">
+    <!-- use https://shields.io/badges/git-hub-actions-workflow-status -->
+    <img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/xjtu-ics/textbook/mdbook.yml">
+    <!-- use https://shields.io/badges/git-hub-followers -->
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/xjtu-ics">
+    <!-- use https://shields.io/badges/git-hub-repo-stars -->
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/xjtu-ics/textbook">
+    <a href="https://piazza.com/class/m4weeuxps486th"><img src="https://img.shields.io/badge/pizza-@Pizza-blue" /></a>&emsp;
+</p>
+
+<h3 align="center">
+    :wave: Welcome to XJTU-ICS 🚀
+</h3>
+
+----
 
 This is the official repository for the Introduction to Computer System Course in Xi'an Jiaotong University.
 
