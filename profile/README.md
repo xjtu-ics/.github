@@ -1,5 +1,5 @@
 <h1 align="center">
-    Introduction to Computer System
+    <img width="958" alt="ics-hori" src="https://github.com/user-attachments/assets/638262f9-1741-44ad-a07a-0b60cd0550fe" />
 </h1>
 
 <p align="center">
