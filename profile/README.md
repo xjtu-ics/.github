@@ -1,7 +1,7 @@
-<h1 align="center">
+<h1 style="text-align: center;">
     <img src="https://github.com/user-attachments/assets/638262f9-1741-44ad-a07a-0b60cd0550fe" 
      alt="ics-hori" 
-     style="height: 66%; width: auto;">
+     style="max-width: 100%; height: auto;">
 </h1>
 
 <p align="center">
