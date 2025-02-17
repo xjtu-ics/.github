@@ -22,9 +22,9 @@
 
 This is the official repository for the Introduction to Computer System Course in Xi'an Jiaotong University.
 
-- [ICS Course Website](https://xjtu-ics.github.io/ics-webpage/): schedule / dashboard / course slides / labs ...
+- [ICS Course Website](https://xjtu-ics.github.io/): schedule / dashboard / course slides / labs ...
 - [ICS Textbook](https://xjtu-ics.github.io/textbook/): orthogonal to certain aspects of the classroom material, serving as a reference for previewing / reviewing.
-- [ICS Supplementary Materials](https://github.com/xjtu-ics/cli-toolkit): contains basic command line essentials.
+- [ICS DevOps](https://github.com/xjtu-ics/cli-toolkit): contains basic command line essentials.
 
 <!--
 
