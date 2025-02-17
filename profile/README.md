@@ -11,7 +11,7 @@
     <!-- use https://shields.io/badges/git-hub-followers -->
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/xjtu-ics">
     <!-- use https://shields.io/badges/git-hub-repo-stars -->
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/xjtu-ics/textbook">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/xjtu-ics/xjtu-ics.github.io">
 </p>
 
 <h3 align="center">
