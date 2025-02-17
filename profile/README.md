@@ -1,8 +1,6 @@
-<h1 style="text-align: center;">
-    <img src="../logo/logo.png" 
-     alt="ics-logo" 
-     style="max-width: 100%; height: auto;">
-</h1>
+<div style="display: flex; justify-content: center;">
+    <img src="../logo/logo.png" alt="ics-logo" style="max-width: 100%; height: auto;">
+</div>
 
 <p align="center">
     <!-- use https://shields.io/badges/git-hub-actions-workflow-status -->
