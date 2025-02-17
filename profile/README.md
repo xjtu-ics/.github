@@ -1,6 +1,9 @@
-<div style="display: flex; justify-content: center;">
-    <img src="../logo/logo.png" alt="ics-logo" style="max-width: 100%; height: auto;">
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="../logo/logo.png">
+    <img alt="SkyPilot" src="../logo/logo.png" width=55%>
+  </picture>
+</p>
 
 <p align="center">
     <!-- use https://shields.io/badges/git-hub-actions-workflow-status -->
