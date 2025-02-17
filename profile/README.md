@@ -15,24 +15,31 @@
 </p>
 
 <h3 align="center">
-    :wave: Welcome to XJTU-ICS 🚀
+    :wave: Introduction to Computer Systems 🚀
 </h3>
 
 ----
 
-This is the official repository for the Introduction to Computer System Course in Xi'an Jiaotong University.
+This is the official repository for the **Introduction to Computer Systems (ICS)** Course in Xi'an Jiaotong University.
 
-- [ICS Course Website](https://xjtu-ics.github.io/): schedule / dashboard / course slides / labs ...
-- [ICS Textbook](https://xjtu-ics.github.io/textbook/): orthogonal to certain aspects of the classroom material, serving as a reference for previewing / reviewing.
-- [ICS DevOps](https://github.com/xjtu-ics/cli-toolkit): contains basic command line essentials.
+- [**ICS Course Website**](https://xjtu-ics.github.io/): schedule / dashboard / course slides / labs ...
+- [**ICS Textbook**](https://xjtu-ics.github.io/textbook/): orthogonal to certain aspects of the classroom material, serving as a reference for previewing / reviewing.
+- [**ICS DevOps**](https://github.com/xjtu-ics/cli-toolkit): contains basic command line essentials.
 
-<!--
+:fire: *News* :fire:
 
-**Here are some ideas to get you started:**
+- [Feb 2025] First session of ICS Course is around the corner: [Time Table](https://xjtu-ics.github.io/calendar/)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+## Support and Questions
+
+We are excited to hear your feedback!
+
+* For issues and feature requests, please [open a GitHub issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/creating-an-issue).
+* For questions, please use [GitHub Discussions](https://github.com/orgs/xjtu-ics/discussions).
+
+For general discussions, join us on [XJTU-ICS Discourse](https://forum.ics.xjtu-ants.net/) (with XJTU-VPN).
+
+## Contributing
+
+We welcome all contributions to the project! See [CONTRIBUTING](https://github.com/xjtu-ics/textbook/blob/main/CONTRIBUTING.md) for how to get involved.
