@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="../logo/logo.png">
-    <img alt="SkyPilot" src="../logo/logo.png" width=55%>
+    <img alt="SkyPilot" src="../logo/logo.png" width=25%>
   </picture>
 </p>
 
