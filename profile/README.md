@@ -30,8 +30,8 @@ This is the official repository for the **Introduction to Computer Systems (ICS)
 
 :fire: *News* :fire:
 
-- [Feb 2025] First session of ICS Course is around the corner: [Time Table](https://xjtu-ics.github.io/)
-- [Feb 2025] Piazza is ready to go: [Enrollment](https://piazza.com/stu.xjtu.edu.cn/spring2026/xjtuics)
+- [Mar 2026] First session of ICS Course is around the corner: [Time Table](https://xjtu-ics.github.io/)
+- [Mar 2026] Piazza is ready to go: [Enrollment](https://piazza.com/stu.xjtu.edu.cn/spring2026/xjtuics)
 
 ## Support and Questions
 
